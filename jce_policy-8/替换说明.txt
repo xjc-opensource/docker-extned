@@ -1,0 +1,2 @@
+%JDK_HOME%\jre\lib\security
+%JRE_HOME%\lib\security
